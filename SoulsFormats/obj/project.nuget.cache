@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/WoGN+142XrQhCoVkELE6rCpdhOPJ/I3VHbkyfbjUcEcAAxCEjwD1zPPNYyBCdn19Y5c+tfiUOcQGcbynVHFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drl12\\source\\repos\\ER_Save_Tool\\SoulsFormats\\SoulsFormats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drl12\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\drl12\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

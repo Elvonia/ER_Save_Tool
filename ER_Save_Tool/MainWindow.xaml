@@ -1,0 +1,22 @@
+﻿<Window x:Class="ER_Save_Tool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ER_Save_Tool"
+        mc:Ignorable="d"
+        Title="ER Save Tool" Height="140" Width="420">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="Load SL2" Click="MenuItem_LoadClick"/>
+            <MenuItem Header="Load Regulation" Click="MenuItem_RegulationClick"/>
+            <MenuItem Header="Validate" Click="MenuItem_ValidateClick"/>
+            <MenuItem Header="Save" Click="MenuItem_SaveClick"/>
+        </Menu>
+        <local:SaveControl x:Name="saveControl" Grid.Row="1" Background="White"/>
+    </Grid>
+</Window>

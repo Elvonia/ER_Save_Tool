@@ -1,0 +1,12 @@
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Debug\net46\SoulsFormats.dll
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Debug\net46\SoulsFormats.pdb
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Debug\net46\SoulsFormats.xml
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Debug\net46\System.Text.Encoding.CodePages.dll
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.csprojAssemblyReference.cache
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.AssemblyInfoInputs.cache
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.AssemblyInfo.cs
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.csproj.CoreCompileInputs.cache
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.csproj.CopyComplete
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.dll
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.xml
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Debug\net46\SoulsFormats.pdb

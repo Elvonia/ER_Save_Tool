@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="ER_Save_Tool.SaveControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ER_Save_Tool"
+             mc:Ignorable="d" 
+             d:DesignHeight="75" d:DesignWidth="400">
+    <Grid Margin="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Name="lblSteamID" Grid.Column="0" Grid.Row="0">SteamID64:</Label>
+        <TextBox Name="txtSteamID" Grid.Column="1" Grid.Row="0" IsEnabled="False" Margin="4"/>
+        <Label Name="lblChecksumMD5" Grid.Column="0" Grid.Row="1">Checksum:</Label>
+        <TextBox Name="txtChecksumMD5" Grid.Column="1" Grid.Row="1" Margin="4" IsEnabled="False"/>
+        <Label Name="lblVersion" Grid.Column="0" Grid.Row="2">Reg Version</Label>
+        <CheckBox Name="cbVersion" Grid.Column="1" Grid.Row="2" IsChecked="False" ToolTip="If checked, will overwrite the regulation.bin with the save copy and the supplied version number" VerticalAlignment="Center" Margin="4,0,0,0"/>
+        <TextBox Name="txtVersion" Grid.Column="1" Grid.Row="2" IsEnabled="False" Margin="24,4,4,4"/>
+
+    </Grid>
+</UserControl>

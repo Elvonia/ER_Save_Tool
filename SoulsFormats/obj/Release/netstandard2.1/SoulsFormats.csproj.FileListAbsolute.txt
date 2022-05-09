@@ -1,0 +1,11 @@
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Release\netstandard2.1\SoulsFormats.deps.json
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Release\netstandard2.1\SoulsFormats.dll
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Release\netstandard2.1\SoulsFormats.pdb
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\bin\Release\netstandard2.1\SoulsFormats.xml
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.csprojAssemblyReference.cache
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.AssemblyInfoInputs.cache
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.AssemblyInfo.cs
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.csproj.CoreCompileInputs.cache
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.dll
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.xml
+C:\Users\drl12\source\repos\ER_Save_Tool\SoulsFormats\obj\Release\netstandard2.1\SoulsFormats.pdb
